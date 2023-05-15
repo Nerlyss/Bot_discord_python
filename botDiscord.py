@@ -278,4 +278,4 @@ async def speak_about(ctx, topic):
 
 
     
-client.run("MTA5MTMzNTE0MzU0Mjc1OTQ4NA.Gxqxnp.mOazc5l59qCjUNbkuxOxamd46zqRkatwt9bkjI")
+client.run("TOKEN")
