@@ -5,7 +5,7 @@
 ## Commande basique
 
 - !hello = salut le joueur en retour
-- on_member join = affiche dans un channel donné l'arrivé d'un nouveau membre
+- on_member_join = affiche dans un channel donné l'arrivé d'un nouveau membre
 - !del chiffre = efface le nombre de ligne indiquer
 - !helpi = pour voir les commandes et leur descriptif (ne fonctionne pas)
 
@@ -22,7 +22,7 @@
 
 ## Rappel
 
-- !rappel temps motif
+- !rappel temps motif (exemple : !rappel 30 Rendez vous)
 - Le bot attendra le nombre de secondes spécifié dans le premier argument.
 - Après le délai, le bot enverra un message privé à l'utilisateur contenant le message spécifié dans le deuxième argument.
 
