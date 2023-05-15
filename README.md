@@ -84,3 +84,7 @@ Permet une discussion avec le bot.
 - Utilisez la commande !reset pour réinitialiser la discussion et recommencer depuis le début. Le bot vous enverra un message indiquant que la discussion a été réinitialisée.
 - Utilisez la commande !speak_about suivie d'un sujet pour demander au bot de parler de ce sujet spécifique. Le bot générera une réponse en fonction du sujet donné.
 
+
+
+fait avec Iptissem
+
